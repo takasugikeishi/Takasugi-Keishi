@@ -1,13 +1,16 @@
 # Takasugi-Keihi
 
-Technical Artist / DCC Tools / 3D Graphics
+Student / Technical Artist / DCC Tools / 3D Graphics
 
 ## Interests
+- Technical Art
+- DCC Tools Development
+- 3D Graphics
+- Rigging & Animation
 - Blender
 - Python
-- Rigging / Animation
-- DCC Tools
-- Unreal Engine
 
-## Projects
-Currently building tools for 3D production workflows.
+## Currently Learning
+- Blender
+- Python
+- Technical Art workflows
