@@ -1,4 +1,4 @@
-# Takasugi-Keihi
+# Takasugi-Keishi
 
 Student / Technical Artist / DCC Tools / 3D Graphics
 
